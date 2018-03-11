@@ -1,6 +1,6 @@
 <?
 
 print "Hallo, alle";
-print "Ciao!";
+echo "Salut";
 
 ?>
