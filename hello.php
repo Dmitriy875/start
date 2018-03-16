@@ -1,8 +1,11 @@
 <?
 
-print "Hallo, alle";
-echo "Salut";
+abstract class Unit {
+	
+}
 
+class Perks {
+	
+}
 
 ?>
-Идите на хер. Да.
